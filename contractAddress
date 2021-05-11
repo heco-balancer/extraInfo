@@ -14,6 +14,12 @@ dsProxy来自: https://kovan.etherscan.io/address/0x130767E0cf05469CF11Fa3fcf270
 dsProxyFactory地址: 0x16E0d66E2C33A03F5348FE78c3f7604459DB862e
 
 
+heco mainnet地址：
+BFactory: 0x5036fBdFe8A56191f8CC6Ca4bB59883505281987
+
+
+
+
 
 ExchangeProxy: 0x981c0C07268991ED14224146FE1CDcA00F908209
 构造方法需要weth address,直接使用的自己的小狐狸
